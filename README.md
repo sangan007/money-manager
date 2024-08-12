@@ -1,4 +1,4 @@
-Here's a more polished version of your README section:
+
 Money Management Application
 
 Below are some screenshots from the Money Management Application:
