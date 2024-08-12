@@ -1,5 +1,7 @@
 
-Money Management Application
+TranSFerit 
+
+TransFerit is an intuitive expense tracking app designed to simplify financial management. With TransFerit, you can effortlessly log expenses and incomes and gain valuable insights into your spending habits. Ideal for personal use or small business tracking, TransFerit offers powerful features in an easy-to-use interface.
 
 Below are some screenshots from the Money Management Application:
 <div style="display: flex; flex-wrap: wrap;">
